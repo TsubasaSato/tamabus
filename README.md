@@ -11,5 +11,5 @@
 - バス内を撮影した画像をBase64にエンコードして10秒ごとに送信する機能
 - 非同期通信機能
 
-(仕様書)[https://hackmd.io/s/r1qhjjacX#]
-(大学で行ったプレゼン資料)[https://www.slideshare.net/tubasa310]
+[仕様書](https://hackmd.io/s/r1qhjjacX#)
+[大学で行ったプレゼン資料](https://www.slideshare.net/tubasa310)
