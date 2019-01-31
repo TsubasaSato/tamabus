@@ -1,4 +1,4 @@
-# 多摩バスシステム
+# バス循環システム
 10秒ごとに現在位置やバス内の画像をサーバに送信するAndroidアプリである。
 バス内にそのアプリを起動したAndroid端末を設置してバスの位置情報、混雑状況などをサーバ側で取得してWebサービスに反映する。
 
@@ -12,4 +12,4 @@
 
 [仕様書](https://hackmd.io/s/r1qhjjacX#)
 
-[大学で行ったプレゼン資料](https://www.slideshare.net/tubasa310)
+[詳しく](https://qiita.com/TsubasaSato/items/274b4fc814e1372b4178)
